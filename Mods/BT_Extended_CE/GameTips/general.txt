@@ -1,20 +1,32 @@
 F1 and F2 while viewing the system map provide quick useful overlays.
 Mech variants of the same chassis can be combined when building.
-A 3049 start will look much like 3025 to start with, but the technology used by the 5 Great Houses will change a lot over the years.
+A 3049 start will look much like 3025 to start with, but the technology used by the Great Houses will change a lot over the years.
 Apocryphal weapons such as Coil Guns, or out of timeline weapons like Snub Nose PPCs are now extremely rare finds on Research planets.
-Clan missions are a whole new scale of difficulty, make your first Clan mission a half skull mission.
+Clan missions are a whole new scale of difficulty. Make your first Clan mission a half-skull mission.
 On Star League presence or ComStar presence planets it is possible the Com Guard, and later the Word of Blake may make an appearance in mission.
-Pirate and Criminal 'Mechs will be, to varying degrees, based on where in space you are. Pirates in Steiner space may be using Commandos while Davion based pirates will more likely use the Valkyrie.
+Mechs you encounter for Pirate and Criminal factions will vary based on their regions and tastes.
+There are many Black Markets, one for each Criminal and Pirate faction. When access is offered, it is for the region you are currently in.
 Mech variant salvage can only be combined together if the same engine is used. An Endo Steel chassis cannot be combined with a standard chassis.
 Loading a game while within a game can cause a crash. Return to the main menu before loading to reduce the chance.
-Shift-clicking an item in the timeline will speed up time until the next event or the clicked event occurs, whichever is first.  This can increase the speed of travel by a lot.
-When looking at 'Mech parts, the salvage numbers tell you A(B)/C(D); A: number of parts of this variant, B: number of parts of all compatible variants, C: complete 'Mechs of this type you own, D: parts needed to build a 'Mech.
-A kill indicated in red in the post mission report, indicates a kill by enemy pilot ejection.
-You can hover the mouse over a unit's insignia to read some background about them, on the system map or after a mission, in the post mission report.
-You can hover the mouse over a unit's insignia to see the expected equipment rating they will be using.
+Shift-clicking an item in the timeline will speed up time until the next event or the clicked event occurs, whichever is first. 
+Mech salvage shows as A(B)/C(D); A: parts you own of this variant, B: parts you own of all compatible variants, C: complete 'Mechs of this type you own, D: total parts needed to build a 'Mech.
+Every Mech chassis comes with it's own quirks and a stock role bonus. Hover over 'Stock Role' in mechbay to find out more.
+A fatigued Pilot has lower resolve generation and may give low spirits. Use a larger team and rotate to counter Pilot Fatigue.
+Faction Stores may sell unique chassis depending on the timeline. A list of these can be found on the wiki.
+Black Market stores may sometimes contain unique chassis or rare SLDF parts, for an exhorbitant fee of course.
+Enemy equipment ratings varies by faction and date. 3025 Exceptional is very different to 3057 Exceptional.
+Some faction units favor using certain 'Mech chassis, or they may favor faster, mobile or high alpha 'Mechs. 
+Mercenaries use special 'Mech random access tables for variety. Garrisoned Mercs will mostly use their Employer's tables.
+Kills in red in the post-mission report are for enemy pilot ejections. A pilot's career card tracks regular and eject kills as a single tally.
+Hold shift while increasing or decreasing armor values to change the value by 1 point rather than 5.
+Hover over a unit's insignia on the post-mission report or system map, to read some background about them.
 Under low or zero atmospheric conditions, ballistic maximum ranges are increased. This can be further increased if low gravity is present.
 Under low or zero atmospheric conditions, missile damage is decreased and it becomes harder to vent heat. 
 Low gravity increases the jump range of Jump Jets. High gravity decreases the range. Jump Jet heat is the same regardless.
+CASE protected locations vent ammo explosions out of the rear of the 'Mech. This destroys the armor but only applies 5 structure damage.
+Ammo explodes when destroyed or crit. Use this to your advantage when targetting armor-stripped locations.
+Gauss Ammo is unique in that it does not explode when destroyed or crit.
+Tier 2 technology will become available in stores around the 3050s. SLDF weapons will remain rare and obscure finds.
 Death From Above - Low gravity reduces the damage of this desperate move. High gravity increases the damage.
 Humid conditions reduces the damage output of all energy weapons. This is common for Jungle and Coastal maps.
 Gale conditions reduce missile accuracy. Strong Gale conditions gives a penalty to both missile and ballistic accuracy.
@@ -284,3 +296,138 @@ And his eyes have all the seeming of a demon‘s that is dreaming.
 We are the things that others fear.
 Hell is empty and all the devils are here.
 Sometimes dead is better.
+Shop Inventory is determined by Planet Tags. Worlds with Advanced or Star League tags are more likely to sell exotic wares.
+Battlefield worlds in conflict zones commonly sell Actuators and Gyros.
+Chemical worlds specialize in selling missile weapons, flamers and inferno ammo.
+Electronic worlds specialize in selling laser weapons and TTS computers.
+Industrial worlds commonly sell cockpits, heat banks and thermal exchangers.
+Mining worlds usually specialize in selling autocannons and artillery.
+Research worlds commonly sell PPCs, TAG lasers and ECM gear. On rare occasions you may find Ultra, Gauss, Streak, Pulse and even COIL weaponry.
+Star League or Lostech tagged worlds have a small chance to sell rare SLDF versions of Gauss, Pulse and ER lasers.
+Extra Light (XL) engines 'Mechs weigh less, but any Side Torso destruction will apply heat per turn.
+If Life Support is crit or destroyed, a pilot will take an injury every time the mech overheats. Spicy.
+Critical hits to Sensors adds stacking weapon accuracy penalties. How unfortunate.
+Engine Shielding crits adds a stacking +10 heat penalty per turn, per hit. Four engine crits will destroy any mech.
+Arm Actuator crits slightly decrease weapon accuracy for that 'Mech arm, along with a -25% melee damage reduction.
+Shoulder crits severely decrease weapon accuracy for that 'Mech arm, along with a punishing -50% melee damage reduction.
+Critical hits to a Hips halve the movement speed of the Mech. This is can be quite perilous.
+Each critical hit to Leg and Feet components slightly reduce the movement and stability gain of a 'Mech.
+If a mission payment is suspiciously high, ask yourself why and prepare accordingly.
+Search Denial, Joint Operation and Tag Team - these always have a chance for ComStar.
+ComStar forces utilize high-value Star League technology and advanced weapons, making them often deadly but rewarding encounters.
+Choose self-preservation over duty.
+Reliable contractors are a valuable asset.
+Politics teaches patience. The frontier rarely shares that virtue.
+A damaged 'Mech can be replaced. A damaged reputation is considerably more troublesome.
+A few wrecked machines today saves a rebellion tomorrow.
+Results matter. Commitment matters as well.
+Show up in force, make your point, collect what's owed.
+Some debts are paid in C-Bills. Others are paid because a BattleMech lance arrived unexpectedly.
+May the light of the One Star shine upon thee, traveler. 
+The light of the One Star guides the pilgrim path, and keeps the darkness at bay.
+The frontier is full of scavengers waiting for signs of weakness.
+A reputation takes years to build and moments to destroy.
+Nothing improves corporate morale quite like a successful acquisition.
+It's remarkable how many business problems can be solved by a lance of BattleMechs.
+Never mistake client hospitality for friendship or trust.
+Get the job done and you'll be paid. Simple arrangement.
+We're not asking for heroics. Just get the job done.
+Trust is a luxury. We prefer contracts.
+A treasure found is merely wealth. A treasure earned is wisdom.
+Loss is a poor companion, but a diligent teacher.
+Fortune does not despise failure. She despises cowardice.
+The universe rewards those bold enough to seize what it offers.
+Some doors open with keys. Others open with autocannon fire.
+The stars guide all travelers. Some they guide toward fortune. Others toward regret.
+The wise man hires strangers only when his brothers are unavailable.
+Don't mistake employment for acceptance. You're still an outsider.
+If you betray someone, make sure you do it successfully. Failed betrayals tend to end badly.
+Most outsiders don't last long around Circinus.
+A pirate expects treachery. It saves a lot of disappointment.
+The Concordat survives setbacks because its people refuse to quit easily.
+Do not mistake Marian hospitality for equality. You are contractors, not citizens.
+Mercenary greed is predictable. That at least makes it manageable.
+Do not expect the Draconis Combine to forget failure quickly.
+The Federated Suns respects competent professionals, regardless of origin.
+We can survive losing money. Losing face is harder.
+The Cloak Syndicate feeds people, sure. Easier to collect protection money from neighborhoods that still exist.
+The Outworlds Alliance military is stretched thin across multiple systems. Times are desperate.
+Most powers see the Rim as territory to exploit. Rim Col citizens are just trying to survive.
+Honor, debt, and violence bind the Yakuza more tightly than any contract.
+Mercenaries come and go. The Red Cobra remains.
+Your blades will be tested. So will your discipline.
+Strike true, strike hard, and return if fate allows it.
+Tortuga didn’t become infamous by playing fair.
+You want morality or money? Because only one of those is on the table.
+Every border governor thinks they can tame the northern Rim. They all learn otherwise.
+The law only matters if someone is willing to enforce it.
+All systems nominal.
+We don’t pick sides — we pick targets.
+Every contract is a gamble. Win big, or limp home.
+Our loyalty renews monthly.
+For Davion, liberty is worth fighting for. The casualty reports rarely agree on the price.
+House Davion calls it freedom. Its enemies call it expansion.
+A Davion officer is taught to lead from the front. A wise one also knows when to duck.
+The Lyrans have never been accused of bringing too little firepower.
+A Lyran war machine is rarely elegant. It is, however, very difficult to argue with.
+The Lyran Commonwealth has wealth, industry and some of the largest guns in space. Subtlety remains optional.
+The Dragon demands discipline from its warriors. Those who fail to provide it rarely get a second opportunity.
+The Combine has endured centuries of war. It considers this evidence that it is doing something right.
+For the Draconis Combine, duty comes before comfort, and honor comes before survival.
+A Capellan victory rarely looks like the battle you thought you were fighting.
+The art of war is knowing when to fight. The Capellans have made an art of knowing when not to.
+The Capellans know they are surrounded. They also know their enemies keep underestimating them.
+Every Marik world has an opinion. Most of them have several.
+A Free Worlds League soldier may serve a dozen flags in their lifetime. All of them claim to represent the League.
+Marik strength lies in diversity. So does Marik’s talent for arguing.
+The Great Houses have fought for centuries over worlds they will never visit and borders they can barely remember.
+The Succession Wars destroyed much of humanity’s greatest technology. Pride, thankfully, survived intact.
+Every Great House claims to fight for humanity’s future. Most simply want the future to belong to them.
+The Great Houses possess enough firepower to destroy civilization. Fortunately, they usually settle for destroying each other.
+ComStar carries humanity’s messages across the stars. It also keeps very careful records of who is listening.
+To the faithful, ComStar preserves civilization. To everyone else, it simply controls the telephone.
+The HPG network binds the Inner Sphere together. ComStar is quite happy to hold the other end of the leash.
+In the darkness between the stars, the voice of ComStar is never far away.
+ComStar has survived every war in the Inner Sphere. Sometimes neutrality is very profitable.
+The Word of Blake claims enlightenment. ComStar claims necessity. Both have very expensive communications networks.
+ComStar asks only for payment, obedience, and a healthy respect for its secrets.
+Never underestimate ComStar. They know where you are, where you were, and who you called afterward.
+A pirate’s Mech doesn’t need to be pretty. It only needs to work long enough to take yours.
+A pirate fleet is held together by three things: fear, profit, and whatever still works.
+Never underestimate a pirate with nothing left to lose. They usually have nothing left to lose.
+Pirates call it freedom. Their victims tend to use less flattering words.
+Pirates live by the gun, die by the gun, and occasionally sell the gun afterward.
+The Great Houses call the Periphery backwaters. The people who live there call them home.
+A Periphery lord may command only a handful of Mechs. They are still his handful of Mechs.
+Periphery independence is rarely granted. More often, it is stubbornly maintained.
+Every minor House dreams of becoming a Great House. Most settle for surviving the next decade.
+The Inner Sphere fights over scraps while the Clans build the future.
+Every Inner Sphere general believes himself a genius. Most cannot even defeat their own logistics.
+The Clans crossed the stars expecting a civilization. They found squabbling feudal lords.
+Perhaps the greatest tragedy of the Inner Sphere is not what it lost, but what it became.
+The Clans remember the Star League as an ideal. The Inner Sphere remembers it as a graveyard.
+To the Inner Sphere, the past is a source of pride. To the Clans, it is a standard to surpass.
+The Yakuza value loyalty above all things. Disloyalty is remembered even longer.
+A Yakuza family can outlast governments, wars, and inconvenient witnesses.
+The Mafia turns favors into debts, debts into loyalty, and loyalty into power.
+A criminal empire built on family, profit, and carefully directed violence can endure for centuries.
+To cross the Red Cobra Triad is usually to become a lesson for others.
+The Rostakov Tong thrives in forgotten ports, border worlds, and places where questions are discouraged.
+The Tong deals in information, contraband, and opportunities best left unrecorded.
+Smuggling routes are the arteries of the Periphery. The Rostakov Tong knows them all.
+The Yihzi Tong rarely seeks attention. Attention is bad for business.
+Information is the Yihzi Tong’s most valuable commodity, and its most dangerous weapon.
+Casinos, mining concerns and criminal enterprises all contribute to the Malthus fortune.
+Every black market begins with someone deciding the rules are optional.
+The Directorate proved that power without legitimacy is fragile. The Restoration intends to prove the opposite.
+Auriga has known oppression. Its new rulers intend to make sure it remembers freedom.
+The Restoration may lack the strength of the Great Houses, but it possesses something they cannot manufacture: a cause worth defending.
+The Aurigan Restoration is rebuilding a realm shattered by tyranny, one world at a time.
+The Magistracy of Canopus has survived by refusing to let the Great Houses dictate its destiny.
+The Magistracy offers pleasure freely, but its sovereignty is not for sale.
+Canopian society values personal freedom, prosperity, and the right to live beyond the reach of distant monarchs.
+The Taurian Concordat has survived for centuries by remembering that no one else is coming to save it.
+Taurian stubbornness is legendary. Their enemies have repeatedly mistaken it for weakness.
+Tauria does not seek an empire. It simply refuses to become someone else’s.
+The Antallos Pirates see the stars as a vast sea, and fate as the current beneath it.
+The Antallos believe that every soul follows a path written long before the first BattleMech was built.
