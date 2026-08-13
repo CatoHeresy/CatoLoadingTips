@@ -1,0 +1,286 @@
+F1 and F2 while viewing the system map provide quick useful overlays.
+Mech variants of the same chassis can be combined when building.
+A 3049 start will look much like 3025 to start with, but the technology used by the 5 Great Houses will change a lot over the years.
+Apocryphal weapons such as Coil Guns, or out of timeline weapons like Snub Nose PPCs are now extremely rare finds on Research planets.
+Clan missions are a whole new scale of difficulty, make your first Clan mission a half skull mission.
+On Star League presence or ComStar presence planets it is possible the Com Guard, and later the Word of Blake may make an appearance in mission.
+Pirate and Criminal 'Mechs will be, to varying degrees, based on where in space you are. Pirates in Steiner space may be using Commandos while Davion based pirates will more likely use the Valkyrie.
+Mech variant salvage can only be combined together if the same engine is used. An Endo Steel chassis cannot be combined with a standard chassis.
+Loading a game while within a game can cause a crash. Return to the main menu before loading to reduce the chance.
+Shift-clicking an item in the timeline will speed up time until the next event or the clicked event occurs, whichever is first.  This can increase the speed of travel by a lot.
+When looking at 'Mech parts, the salvage numbers tell you A(B)/C(D); A: number of parts of this variant, B: number of parts of all compatible variants, C: complete 'Mechs of this type you own, D: parts needed to build a 'Mech.
+A kill indicated in red in the post mission report, indicates a kill by enemy pilot ejection.
+You can hover the mouse over a unit's insignia to read some background about them, on the system map or after a mission, in the post mission report.
+You can hover the mouse over a unit's insignia to see the expected equipment rating they will be using.
+Under low or zero atmospheric conditions, ballistic maximum ranges are increased. This can be further increased if low gravity is present.
+Under low or zero atmospheric conditions, missile damage is decreased and it becomes harder to vent heat. 
+Low gravity increases the jump range of Jump Jets. High gravity decreases the range. Jump Jet heat is the same regardless.
+Death From Above - Low gravity reduces the damage of this desperate move. High gravity increases the damage.
+Humid conditions reduces the damage output of all energy weapons. This is common for Jungle and Coastal maps.
+Gale conditions reduce missile accuracy. Strong Gale conditions gives a penalty to both missile and ballistic accuracy.
+Rain reduces all weapon accuracy. Heavy Rain, found in Jungle biomes, will also reduce movement speed.
+Low light conditions affect all weapon accuracy. However a target becomes easier to hit as it heats up.
+UAC weapons can be switched between Single Fire and Rapid fire with the middle mouse button in mission.
+LBX cluster ammo is ideal for seeking crits in exposed locations or for seeking engine crits on vehicles.
+SRM inferno ammo has a chance to explode if you go over the overheat threshold, applying massive heat.
+An SRM2 is more accurate than an SRM4. Both are more accurate than an SRM6.
+Respect the OpFor or die. They're not playing around, you shouldn't either.
+Heat vents struggle in vacuum — plan accordingly.
+Ctrl-A toggles through aura modes, showing ECM and other range circles.
+Screenshot tip: Ctrl-Shift-I to activate free camera mode. Ctrl-Shift-U to hide the UI. Sometimes takes a few presses.
+Use Tab to cycle through your units.
+Pilot skills can be reset by Ctrl-Click the Service Record tab in the Barracks - but requires Argo Training Module 2.
+LRMs firing on TAG marked targets will ignore indirect fire and evasion accuracy penalties.
+While jump jets increase your evasion, they also reduce your weapon accuracy and build heat.
+Walking generates 3 heat, Running 6 heat, Sprinting 9 heat.
+Brace your destabilized 'Mechs to restore stability.
+On Hard difficulty enemy AI gets smarter. They also get to use Inferno ammo.
+Walk or Run? Running a mech decreases your accuracy and builds more heat.
+4 engine crits will destroy any mech. Machine Guns and LBX ammo are perfect for this.
+Post-mission mech salvage is based on the total amount of structure damaged, not destroyed locations like in vanilla.
+Put Dekker in the Spider. He'll be fine.
+You live and learn. Or you don't live long.
+Incoming fire has the right of way.
+Morals are one thing. Survival is everything.
+Good fortune often happens when opportunity meets with preparation.
+The Star League. A single man ruled 3,000 star systems. The Lords Davion, Kurita, Steiner, Marik, and Liao deferred to his will. 
+War is never really won by anyone who participates in it. War simply rearranges the way things were and steals the promise of tomorrow from each side.
+The Star League era, dating from 2571 to 2751, marked the Golden Age of Humankind.
+"Pray God this is really the end of it all. No throne is worth what we've paid today." — First Prince Alexander Davion, after the Battle of Robinson, 2540
+The noonday suns burn / the dozing Dragon. He'll wake / when the suns must set. — Battle haiku sent by Coordinator Minoru Kurita to all troops, First Succession War.
+Smoke rises from ruins. / Our 'Mechs destroy and spit death / at innocents. Shame. — Haiku found on the body of a Kurita officer who committed suicide during the Kentares Massacre
+Might makes Kurita / Pillar of Dragon steel / Victory over all! — Traditional Kurita haiku
+'In this world, there is only blood and gold.' — Ancient Terran saying incorporated into the Charter of the Capellan Republic
+'It is not that we love war so much... all of us simply got tired of peace.' — Attributed to Capellan Chancellor Barbara Liao
+"Godspeed to all of you." — General Kerensky's fleetwide message, Jan 23 2777
+No innocent man ever rebelled against lawful authority, and we, the Star League, are the Law. — Coordinator Hehiro Kurita
+"DFA," or "Dude, F'n A," is an infectious drinking game popularized by candid Solaris VII partycam footage.
+The Lyran Commonwealth, led by House Steiner, began as a merger of mercantile alliances. It remains astoundingly German to this day.
+Vehicles take great pleasure in seeing you suffer. Do not under-estimate them.
+If there are no enemies in range, Brace your 'Mech against the futility of life and this endless struggle.
+Citizenship in the Capellan Confederation is a point of pride for many. Service guarantees citizenship. Would you like to know more?
+MechWarriors who are incapacitated in combat still have a chance to survive and bankrupt you with medical bills.
+Each shot of an Autocannon after the first suffers a Recoil penalty that lowers its chance to hit. You will probably keep shooting regardless.
+The Succession Wars between the Great Houses of the Inner Sphere have continued with little interruption since 2786.
+Never turn your back on an enemy.
+That which does not kill you has made a tactical error.
+The pen is mightiest when it writes orders for more swords.
+In 2766, Stefan Amaris of the Rim Worlds Republic launched a bloody revolt that destroyed the Star League.
+Hyperpulse Generators, controlled exclusively by ComStar, allow near-instantaneous video communication across vast interstellar distances.
+The Succession Wars destroyed Star League factories, making BattleMechs hard to maintain and produce. Much is now LosTech.
+The Succession Wars began in 2786 when Minoru Kurita of the Draconis Combine declared himself First Lord of the Star League.
+Gladiatorial 'Mech combat takes place on the world of Solaris VII, and is broadcast and wagered on throughout known space.
+The Free Worlds League is the oldest of the Successor States, founded by House Marik in 2271.
+Originally a representative democracy, the maneuverings of House Davion transformed the Federated Suns into a monarchy.
+The Ares Conventions of 2412 established rules for modern combat, forbidding the use of nuclear and biological weapons and orbital bombardment.
+The union of two breakaway factions from the Oberon Confederation in 3028 created the Greater Valkyrate, a Bandit Kingdom that kept the Oberon Confederation in check as their strong antagonist.
+The Clan Invasion of 3049 smashed the Valkyrate. Forces from Clan Jade Falcon overran their worlds, destroying the Second Battalion of Ryan's Rebels on Last Chance.
+Incensed at the expulsion of her lover, Maria Morgraine and her followers settled the frozen world Götterdämmerung in 3021 and declared a new pirate kingdom, Morgraine's Valkyrate.
+In 3045 ComStar reportedly lost all contact with Oberon VI as well as the Elysian Fields, Oberon's protectorate. It was not considered very unusual in this unstable region.
+In 3049 the Oberon Confederation were quickly overrun as forces from Clan Wolf tore through them, their technology ahead of the defenders by centuries.
+A collection of just four worlds, the Illyrian Palatinate survives through modest trade with the Free Worlds League, primarily in iron ore and processed steel.
+The Illyrian Palatinate was founded in the mid 24th century during the colonization waves spurred into action by the breakup of the old Terran Hegemony.
+In 2784, the Star League Defense Force initiated Operation EXODUS. This allowed Circinus, a former member world of the Rim Worlds Republic that had been occupied by the SLDF, to assert independence as the Circinus Federation.
+The Circinus Federation attempted a long-planned invasion of the Illyrian Palatinate in 3034, which rapidly proved to be a disaster. 
+The Circinus Federation is, at least theoretically, a representative democracy. No legislative branch of their government exists of course.
+Within The Rift at the edge of Lyran space once existed a Periphery power that brought the end of the Star League, the Rim Worlds Republic.
+The Rim Collection is a small democratic Periphery state consisting of former Rim Worlds Republic worlds. The popular movement to found a new nation, dubbed the Unification Movement, began in the late 3030s.
+The St Ives Compact was formed in 3029 as a direct result of the Fourth Succession War. Duchess Candace Liao, firstborn of Chancellor Maximilian Liao and his heir, fell in love with Justin Xiang Allard, a Federated Suns spy, and fled her home nation.
+CCAF attacks on civilian targets in the St Ives Compact serve to disrupt the small nation, since the Confederation lacks the military might to go to war with the Federated Suns, their protector.
+The Tortuga Dominions is a bandit kingdom in the Periphery from which occasional raids are launched against the Federated Suns and the Taurian Concordat in search of plunder.
+As the Succession Wars engulfed the remains of the Star League, raiding forces from the Tortuga Dominions would earning a lasting reputation for utter depravity, cruelty and ruthlessness.
+Antallos is home to outlaws aligned with every major organized crime syndicate within the Inner Sphere; pirates and renegades, outcasts, prospectors, adventurers, and political extremists.
+The Marian Hegemony has spent a century preying upon nearby trade routes and worlds as a means of keeping their economy functioning. 
+The Antallos Pirates are a weathered band of corsairs, philosopher-smugglers and colorful brigands.
+Antallos Pirates see wealth, fate, and violence as natural parts of the cosmic order. Their spirituality does not make them kinder.
+The Aurigan Pirates are a motley collection of raiders and outlaw scavengers, plaguing independent worlds and system traffic thought the Reach. 
+The asteroid belts of Star's End have a haunting reputation. Isolated vessels often turn up as a dead, empty wreck, floating in space.
+The Chaos March pirates are a collection of renegade mercenaries and former planetary forces, who thrive on the instability of the region.
+Marian Pirate Legions are usually endorsed by the Marian Hegemony Senate, with the goal of inflicting instability on neighboring systems.
+Oberon Reavers are feared pirate bands raiding out from a feared region of space - the Oberon Confederation.
+The Rim Worlds Pirates are an organized gang of outlaw salvage teams and mech chop-shops, creating a steady flow of illegal parts to independent worlds along the frontier.
+Santander V, also known as Santander's World, is the capital world of the Antallos pirate kingdom. All outlaws in this region pay homage to the Pirate King, Helmar Valasek.
+Found throughout human-occupied space, the Mafia accepts all into its ranks who are willing to protect "the Family." 
+The Beroski Family are known to be involved in various criminal activities, from drug trafficking and prostitution to racketeering and smuggling.
+The Malthus Syndicate blurs the lines between corporation, noble house, political machine, gambling empire and criminal cartel.
+When dealing with criminal syndicates, everyone has a price and everything is ultimately a transaction.
+Circinus Raiders are little more than roaming warbands held together by greed, fear and charisma.
+To a raider, civilized behavior is viewed as weakness. Mercy is expensive. The future is somebody else's problem.
+The Circinus Federation likes to hide behind the pretense of simple frontier state of farmers, traders and independent citizens. 
+Power in the Circinus Federation rests with the Black Warriors, a feared ex-mercenary force now turned pirate-raider.
+The Tortuga pirates are among the closest thing the 31st century has to a romantic image of pirates. They're still criminals, slavers, raiders and smugglers of course.
+The Red Cobra Triad operate vast profits from narcotics, gambling, smuggling, protection, vice and black-market trade.
+The Red Cobra Triad rarely makes direct threats. They don't need to. Consequences are simply understood.
+The Taurian Concordat is fiercely independent, heavily armed, and deeply suspicious of the Inner Sphere — especially House Davion.
+The Lyran Commonwealth is wealthy, aristocratic, and industrially powerful. Its officials speak with confidence bred from prestige and arrogance.
+The Free Worlds League is politically fractured, commercially minded, and highly pragmatic.
+The Magistracy of Canopus presents as a society of personal freedom and refined pleasure. Underneath lies a pragmatic state that understands leverage, trade and influence very well.
+The Marian Hegemony is militaristic, hierarchical, expansionist, and deeply conscious of status and authority.
+The Capellan Confederation is proud, politically conscious, and deeply concerned with loyalty, stability, and state authority. 
+Capellan officials often speak with calculated politeness layered over suspicion and ideological conviction.
+The Draconis Combine is authoritarian, militaristic, and intensely concerned with duty, hierarchy, and obedience. 
+Rooted in old Japanese cultural traditions, the Draconis Combine is a vast interstellar state where military honor and service to the Coordinator outweigh individual concerns.
+The Federated Suns projects confidence, patriotism, and military professionalism. Davion officers tend to view themselves as defenders of order and stability.
+The Cloak Syndicate is a predatory criminal enterprise which sells itself as the friend of forgotten people. Desperate customers are loyal customers after all.
+In 3056, the Treaty of Taurus allowed the joint settlement of a New Colony Region in empty space between the Magistracy of Canopus and Taurian Concordat.
+The Outworlds Alliance was once a prosperous and proud region. Centuries of decline have left much of the Alliance impoverished and technologically degraded.
+In the 31st century, a humanitarian crisis is building in the Outworlds Alliance. How do you balance military necessity as entire worlds slide toward desperation and revolt?
+Founded in 3048, the Rim Collection is a bright spark of idealism, trying to reclaim the legacy of the old Rim Worlds Republic.
+The Wolf’s Dragoons represent the gold standard of mercenary conduct in the Inner Sphere: disciplined, honorable and highly professional.
+Even in the 31st century, the Yakuza maintain a strong cultural identity rooted in old Terra-era Japanese customs, adapted into a vast interstellar criminal network.
+Man-TLE is a slick and mysterious criminal network producing highly addictive entertainment narcotics.
+Bored of reality? Man-TLE produce 'True Life Experiences', recreational hologram environments with narcotic stimulation. You'll never want to leave...
+The Beroski Family sits atop a sprawling criminal empire of racketeering, smuggling, vice, bribery, and contractual violence.
+The Yihzi Tong possess a rigid hierarchy, strong internal discipline and a fanatically loyal membership. 
+The Yihzi Tong are commonly involved in narcotics, prostitution, smuggling, extortion and occasionally state terrorism.
+The Rostakov Tong have a brutal reputation. If anyone challenges their business, territory or authority, the response is often immediate, public and memorable.
+Following his defection to the FedSuns in 3029, ex-Capellan Colonel Pavel Ridzik established his own fiefdom - the Tikonov Free Republic. It would be ill-fated.
+The Chaos March is a confused warzone. The system is in constant turmoil with fleets of multiple houses constantly passing through.
+The Arc-Royal Defense Cordon was a region of space in the Lyran Alliance ruled by Grand Duke Morgan Kell from 3057 until 3067.
+An oddity even among the strange worlds of the Periphery, the Elysian Fields was a private hold of the Inheritor philosophic movement and later the One Star Faith. 
+The Elysian Fields are a de-facto protectorate of the Oberon Confederation, to whom they have forsworn all military.
+The Oberon Confederation wants to be seen as a legitimate state, but underneath the paint it's still a pirate kingdom, with slavery and extortion still common.
+Under House Humphreys Andurien was a restive province with a strong anti-Marik bias, which led it to secede from the Free Worlds League in 3030.
+The Duchy of Andurien was considered a particularly open and enlightened form of this government, with citizens enjoying substantial freedoms. 
+All warfare is based on deception.
+He will win who knows when to fight and when not to fight.
+We cannot enter into alliances until we are acquainted with the designs of our neighbors.
+Hold out baits to entice the enemy. Feign disorder, and crush him.
+Let your plans be dark and impenetrable as night, and when you move, fall like a thunderbolt.
+Opportunities multiply as they are seized.
+Point us at the target and wire the funds.
+Double the pay, double the loyalty.
+We don't chase glory — we chase invoices.
+Honor is free. We aren’t.
+Mercy costs extra.
+You want commitment? Add a zero.
+Heroes die. Professionals withdraw with salvage.
+Heroes get monuments. Mercs get invoices.
+Mech runs on three things: ammo, coolant, and sheer denial.
+My Mech isn’t overheating. It’s just passionate.
+In the desert, heat kills Mechs before enemies do.
+Humidity turns every cockpit into a sauna of regret.
+Collateral damage? Contract says don’t ask.
+Mercenaries live by contracts — and die by them too.
+Every Mech has a story. Some end in glory, others in scrap.
+Salvage is king. Kill carefully.
+Scout Mechs die first — unless they’re piloted smart.
+Bushido doesn't mean mercy. Strike swiftly, without hesitation. - Kuritan proverb
+Taurians may be outgunned, but never out-willed.
+Guerrilla tactics and stubborn pilots — Taurian trademarks.
+Flexible units, unpredictable tactics — Canopian forces are full of surprises.
+Low tech doesn’t mean low threat — Outworlders make every shot count.
+Simple Mechs, smart tactics. Keep it lean and lethal.
+Glory to the Republic! And the autocannon. - Marian Hegemony
+Life on the fringe teaches harsh lessons — usually through lasers.
+Never assume a backwater pilot can't outfight you.
+Pirates don’t play fair — so neither should you.
+Expect ambushes. Expect salvage. Expect betrayal.
+Pirates may pilot junk — but a lucky hit still kills.
+If it looks like a trap, it probably is.
+Pirates don't care about honor — only loot and survival.
+C-Bills talk. Morals walk.
+You’re only as good as your last contract.
+A good mercenary knows when to fight — and when to leave.
+Your next employer could be your next enemy — stay sharp.
+A clean evac is a win. Don't die for a bonus clause.
+We don't fight for free — and we don’t fight fair.
+You want glory? Join the Lyrans. We’re here to get paid.
+Loyalty doesn’t pay for repairs. C-Bills do.
+We’re all just meat in the cockpit.
+Equipment is key. A well equipped Light can kill a poorly equipped Assault.
+Instability removes evasion. Perfect for a follow-up volley.
+Excessive heat shuts down a mech. A shutdown mech will quickly become a dead mech. 
+Ammo explodes. Don't have too much of it. Also, don't run out of ammo. 
+Plan your lance according to the range & strategy you intend to use.
+Watch your heat. Riding the red line will shut you down or blow you sky high.
+Failure is always a possibility.
+Riding the red line is dangerous.
+Remember: Darius has no idea what he's talking about.
+The XO is actively trying to kill you. It's the only explanation.
+Who knows when Sumire may kill again?
+You just know that Farah is sending reports on you to Comstar.
+Any shot not taken is a miss.
+Old age and treachery always overcomes youth and enthusiasm.
+We ride the tempest, we bring the storm.
+High Risk. High Pay. High Adventure!
+Seize the day.
+Our wrath falls from the heavens.
+Executing Order 66.
+An ordnance technician at a dead run outranks everybody.
+A soft answer turneth away wrath. Once wrath is looking the other way, shoot it.
+Do unto others.
+Only you can prevent friendly fire.
+Your name is in the mouth of others: be sure it has teeth.
+The world is richer when you turn enemies into friends, but that's not the same as you being richer.
+Don't be afraid to be the first to resort to violence.
+The enemy of my enemy is my enemy's enemy. No more. No less.
+If it's stupid and it works, it's still stupid and you're lucky.
+Every client is one payment away from becoming a target.
+Heaven offers nothing that a mercenary soul can desire.
+The only way out is through.
+I am a man of fortune, and must seek my fortune.
+Not all treasure is silver and gold.
+Where there is a sea there are pirates. - Greek Proverb
+A friend can betray you, but an enemy will always stay the same.
+Give a man a fire and he's warm for a day. Set fire to him and he's warm for the rest of his life.
+No matter how fast light travels, it finds the darkness has always got there first, and is waiting for it.
+Evil begins when you begin to treat people as things.
+He'd been wrong, there was a light at the end of the tunnel, and it was a flamethrower.
+Sometimes glass glitters more than diamonds because it has more to prove.
+When in doubt, choose to live.
+Chances are where you find them.
+The thrill of the hunt… the promise of payment.
+How quickly the tide turns!
+Circle in the dark, the battle may yet be won.
+Remind yourself that overconfidence is a slow and insidious killer.	
+There can be no bravery without madness.
+Be wary - triumphant pride precipitates a dizzying fall.
+Dispatch these thugs in brutal fashion, that all may hear of your arrival.
+The cost of preparedness - measured now in credits, later in salvage.	
+Word is travelling. Ambition is stirring on distant worlds. We can use this.
+A predator is often blind to its own peril.	
+The sin is not in being outmatched, but in failing to recognize it.	
+Those who play with the devil's toys will be brought by degrees to wield his sword.
+Valour is superior to numbers.
+The blade itself incites to violence.
+Vae victus. Woe to the vanquished.
+Only the dead have seen the end of the war.
+The gods favour the bold.
+Cry "Havoc!" and let slip the dogs of war.
+He conquers who endures.
+In war, truth is the first casualty.
+The sinews of war are infinite money.
+Danger gleams like sunshine to a brave man's eyes.
+A coward's mother does not weep.
+Rascals, do you want to live forever?
+War is the trade of kings.
+Let us do evil, that good may come?
+A brave man dies but once, a coward many times.
+There is no death. Only a change of worlds.
+A collision in orbit can ruin your day.
+Burn old wood, read old books, drink old wines, have old friends.
+Kill them all, God will recognise his own.
+Following the light of the sun, we left the Old World.
+Peace hath her victories, no less renowned than War.
+Luck is the residue of design.
+He doth nothing but talk of his 'Mech.
+Give me another 'Mech: bind up my wounds.
+A 'Mech! A 'Mech! My kingdom for a BattleMech!
+The better part of valour is discretion.
+To whom God will, there be the victory.
+There's daggers in men's smiles.
+Let the boy win his spurs.
+You cannot see the future with tears in your eyes.
+If they wish to fight today, let them come like men.
+Patience is a conquering virtue.
+Nothing ventured, nothing gained.
+The life so short, the craft so long to learn.
+Ignorance is bliss, when it's not fatal.
+Pride, the never failing vice of fools.
+The only true wisdom is in knowing you know nothing.
+Round and round the ghosts of beauty glide, and haunt the places where their honour died.
+And his eyes have all the seeming of a demon‘s that is dreaming.
+We are the things that others fear.
+Hell is empty and all the devils are here.
+Sometimes dead is better.
