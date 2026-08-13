@@ -12,16 +12,33 @@ Adds 250+ new tips
 
 BEXT Gameplay Tips:
 
+<img src="/Examples/tip1.png" width="380" height="65"/>
+<img src="/Examples/tip2.png" width="380" height="65"/>
+
 BT Lore from Sarna:
+
+<img src="/Examples/lore1.png" width="380" height="65"/>
+<img src="/Examples/lore2.png" width="380" height="65"/>
 
 BEXT Faction Lore:
 
+<img src="/Examples/faction1.png" width="380" height="65"/>
+<img src="/Examples/faction2.png" width="380" height="65"/>
+
 Merc Life:
+
+<img src="/Examples/merc2.png" width="380" height="65"/>
+<img src="/Examples/merc3.png" width="380" height="65"/>
 
 Wisdom:
 
+<img src="/Examples/wisdom1.png" width="380" height="65"/>
+<img src="/Examples/wisdom2.png" width="380" height="65"/>
+
 Fun:
 
+<img src="/Examples/fun1.png" width="380" height="65"/>
+<img src="/Examples/fun2.png" width="380" height="65"/>
 
 ## Install
 Drag the contents into your Battletech installation.  
