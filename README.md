@@ -2,9 +2,9 @@
 
 A revision to the Loading Screen tips for Battletech Extended Tactics mod
 
-Revises vanilla BEXT tips from 126 -> 38
+Revises down vanilla BEXT tips from 126 -> 38 - removing bland, obvious and vanilla information.
 
-Adds 250+ new tips
+Adds 250+ new tips curated to be either helpful, informative or entertaining.
 
 ---
 
