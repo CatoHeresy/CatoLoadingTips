@@ -85,7 +85,7 @@ Gladiatorial 'Mech combat takes place on the world of Solaris VII, and is broadc
 The Free Worlds League is the oldest of the Successor States, founded by House Marik in 2271.
 Originally a representative democracy, the maneuverings of House Davion transformed the Federated Suns into a monarchy.
 The Ares Conventions of 2412 established rules for modern combat, forbidding the use of nuclear and biological weapons and orbital bombardment.
-The union of two breakaway factions from the Oberon Confederation in 3028 created the Greater Valkyrate, a Bandit Kingdom that kept the Oberon Confederation in check as their strong antagonist.
+The union of two breakaway factions from the Oberon Confederation in 3028 created the Greater Valkyrate, a Bandit Kingdom that kept the Oberon Confederation in check.
 The Clan Invasion of 3049 smashed the Valkyrate. Forces from Clan Jade Falcon overran their worlds, destroying the Second Battalion of Ryan's Rebels on Last Chance.
 Incensed at the expulsion of her lover, Maria Morgraine and her followers settled the frozen world Götterdämmerung in 3021 and declared a new pirate kingdom, Morgraine's Valkyrate.
 In 3045 ComStar reportedly lost all contact with Oberon VI as well as the Elysian Fields, Oberon's protectorate. It was not considered very unusual in this unstable region.
@@ -97,10 +97,10 @@ The Circinus Federation attempted a long-planned invasion of the Illyrian Palati
 The Circinus Federation is, at least theoretically, a representative democracy. No legislative branch of their government exists of course.
 Within The Rift at the edge of Lyran space once existed a Periphery power that brought the end of the Star League, the Rim Worlds Republic.
 The Rim Collection is a small democratic Periphery state consisting of former Rim Worlds Republic worlds. The popular movement to found a new nation, dubbed the Unification Movement, began in the late 3030s.
-The St Ives Compact was formed in 3029 as a direct result of the Fourth Succession War. Duchess Candace Liao, firstborn of Chancellor Maximilian Liao and his heir, fell in love with Justin Xiang Allard, a Federated Suns spy, and fled her home nation.
+The St Ives Compact was formed in 3029 as a direct result of the Fourth Succession War. Duchess Candace Liao, firstborn of Chancellor Maximilian Liao and his heir, fell in love with Justin Allard, a Federated Suns spy, and fled her home nation.
 CCAF attacks on civilian targets in the St Ives Compact serve to disrupt the small nation, since the Confederation lacks the military might to go to war with the Federated Suns, their protector.
 The Tortuga Dominions is a bandit kingdom in the Periphery from which occasional raids are launched against the Federated Suns and the Taurian Concordat in search of plunder.
-As the Succession Wars engulfed the remains of the Star League, raiding forces from the Tortuga Dominions would earning a lasting reputation for utter depravity, cruelty and ruthlessness.
+As the Succession Wars engulfed the remains of the Star League, raiding forces from the Tortuga Dominions would earning a lasting reputation for depravity, cruelty and ruthlessness.
 Antallos is home to outlaws aligned with every major organized crime syndicate within the Inner Sphere; pirates and renegades, outcasts, prospectors, adventurers, and political extremists.
 The Marian Hegemony has spent a century preying upon nearby trade routes and worlds as a means of keeping their economy functioning. 
 The Antallos Pirates are a weathered band of corsairs, philosopher-smugglers and colorful brigands.
@@ -120,8 +120,8 @@ Circinus Raiders are little more than roaming warbands held together by greed, f
 To a raider, civilized behavior is viewed as weakness. Mercy is expensive. The future is somebody else's problem.
 The Circinus Federation likes to hide behind the pretense of simple frontier state of farmers, traders and independent citizens. 
 Power in the Circinus Federation rests with the Black Warriors, a feared ex-mercenary force now turned pirate-raider.
-The Tortuga pirates are among the closest thing the 31st century has to a romantic image of pirates. They're still criminals, slavers, raiders and smugglers of course.
-The Red Cobra Triad operate vast profits from narcotics, gambling, smuggling, protection, vice and black-market trade.
+The Tortuga pirates are among the closest thing the 31st century has to a romantic image of pirates. Bold free-spirits? Or slavers, raiders and profiteers?
+The Red Cobra Triad operate vast profits from narcotics, gambling, smuggling, protection, vice and black-market goods.
 The Red Cobra Triad rarely makes direct threats. They don't need to. Consequences are simply understood.
 The Taurian Concordat is fiercely independent, heavily armed, and deeply suspicious of the Inner Sphere — especially House Davion.
 The Lyran Commonwealth is wealthy, aristocratic, and industrially powerful. Its officials speak with confidence bred from prestige and arrogance.
@@ -131,7 +131,7 @@ The Marian Hegemony is militaristic, hierarchical, expansionist, and deeply cons
 The Capellan Confederation is proud, politically conscious, and deeply concerned with loyalty, stability, and state authority. 
 Capellan officials often speak with calculated politeness layered over suspicion and ideological conviction.
 The Draconis Combine is authoritarian, militaristic, and intensely concerned with duty, hierarchy, and obedience. 
-Rooted in old Japanese cultural traditions, the Draconis Combine is a vast interstellar state where military honor and service to the Coordinator outweigh individual concerns.
+Rooted in old Japanese traditions, the Draconis Combine is a vast interstellar state where military honor and service to the Coordinator outweigh individual concerns.
 The Federated Suns projects confidence, patriotism, and military professionalism. Davion officers tend to view themselves as defenders of order and stability.
 The Cloak Syndicate is a predatory criminal enterprise which sells itself as the friend of forgotten people. Desperate customers are loyal customers after all.
 In 3056, the Treaty of Taurus allowed the joint settlement of a New Colony Region in empty space between the Magistracy of Canopus and Taurian Concordat.
@@ -145,7 +145,7 @@ Bored of reality? Man-TLE produce 'True Life Experiences', recreational hologram
 The Beroski Family sits atop a sprawling criminal empire of racketeering, smuggling, vice, bribery, and contractual violence.
 The Yihzi Tong possess a rigid hierarchy, strong internal discipline and a fanatically loyal membership. 
 The Yihzi Tong are commonly involved in narcotics, prostitution, smuggling, extortion and occasionally state terrorism.
-The Rostakov Tong have a brutal reputation. If anyone challenges their business, territory or authority, the response is often immediate, public and memorable.
+The Rostakov Tong have a brutal reputation. If anyone challenges their territory or authority, the response is often immediate, public and memorable.
 Following his defection to the FedSuns in 3029, ex-Capellan Colonel Pavel Ridzik established his own fiefdom - the Tikonov Free Republic. It would be ill-fated.
 The Chaos March is a confused warzone. The system is in constant turmoil with fleets of multiple houses constantly passing through.
 The Arc-Royal Defense Cordon was a region of space in the Lyran Alliance ruled by Grand Duke Morgan Kell from 3057 until 3067.
@@ -241,9 +241,8 @@ Evil begins when you begin to treat people as things.
 He'd been wrong, there was a light at the end of the tunnel, and it was a flamethrower.
 Sometimes glass glitters more than diamonds because it has more to prove.
 When in doubt, choose to live.
-Chances are where you find them.
+Remember, chances are where you find them.
 The thrill of the hunt… the promise of payment.
-How quickly the tide turns!
 Circle in the dark, the battle may yet be won.
 Remind yourself that overconfidence is a slow and insidious killer.	
 There can be no bravery without madness.
