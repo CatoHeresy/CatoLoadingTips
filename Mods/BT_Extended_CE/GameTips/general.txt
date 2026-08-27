@@ -385,12 +385,7 @@ Every Great House claims to fight for humanity’s future. Most simply want the 
 The Great Houses possess enough firepower to destroy civilization. Fortunately, they usually settle for destroying each other.
 ComStar carries humanity’s messages across the stars. It also keeps very careful records of who is listening.
 To the faithful, ComStar preserves civilization. To everyone else, it simply controls the telephone.
-The HPG network binds the Inner Sphere together. ComStar is quite happy to hold the other end of the leash.
-In the darkness between the stars, the voice of ComStar is never far away.
-ComStar has survived every war in the Inner Sphere. Sometimes neutrality is very profitable.
-The Word of Blake claims enlightenment. ComStar claims necessity. Both have very expensive communications networks.
-ComStar asks only for payment, obedience, and a healthy respect for its secrets.
-Never underestimate ComStar. They know where you are, where you were, and who you called afterward.
+The Hyperpulse Generator network binds the Inner Sphere together, connecting humanity through the darkness.
 A pirate’s Mech doesn’t need to be pretty. It only needs to work long enough to take yours.
 A pirate fleet is held together by three things: fear, profit, and whatever still works.
 Never underestimate a pirate with nothing left to lose. They usually have nothing left to lose.
@@ -430,3 +425,16 @@ Taurian stubbornness is legendary. Their enemies have repeatedly mistaken it for
 Tauria does not seek an empire. It simply refuses to become someone else’s.
 The Antallos Pirates see the stars as a vast sea, and fate as the current beneath it.
 The Antallos believe that every soul follows a path written long before the first BattleMech was built.
+In 3028, Terra hosted the marriage of First Prince Hanse Davion and Archon-Designate Melissa Steiner, an event that touched off the Fourth Succession War.
+Terra's golden age came to an end with the conquest of Terra in the Amaris Coup of 2767, and the subsequent Amaris Civil War.
+ComStar has survived every war in the Inner Sphere. Sometimes neutrality is very profitable.
+With the death of the Cameron dynasty, the only thing the Star League Council could agree upon was rebuilding the shattered hyperpulse generator network. They appointed Jerome Blake to this task.
+In 3052, a fierce religious backlash against the removal of ComStar's mystical and religious aspects created a new movement - The Word of Blake.
+In 3052, Demona Aziz, Precentor Atreus and a member of the First Circuit, declared that Focht's vision for ComStar was heretical to the teachings of the Word of Blake.
+As ex-ComStar refugees flooded into the Free Worlds League, Marik granted the Word of Blake landhold on the world of Gibson.
+The Blakists took over administration of the Hyperpulse Generators in the League, as well as the Capellan Confederation. This earned them considerable income.
+The Fourth Succession War was a conflict lasting from 3028 to 3030. Although brief, it resulted in large changes to Inner Sphere's political landscape.
+"My dear... I give you the Capellan Confederation." - Hanse Davion, in his wedding speech to Melissa Steiner, 3028.
+The Amaris Civil War of 2766 (also referred to as the Amaris Crisis) was a series of events that led to the dissolution of the Star League.
+Operation EXODUS, also called the Great Exodus by the Clans, refers to the departure of the Star League Defense Force from the Inner Sphere in 2784.
+In the military power vacuum left by Kerensky's departure, Coordinator Minoru Kurita declared himself First Lord of the Star League. The announcement touched off the First Succession War and the decline of the known Human Sphere.
