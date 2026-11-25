@@ -6,14 +6,14 @@ Clan missions are a whole new scale of difficulty. Make your first Clan mission 
 On Star League presence or ComStar presence planets it is possible the Com Guard, and later the Word of Blake may make an appearance in mission.
 Mechs you encounter for Pirate and Criminal factions will vary based on their regions and tastes.
 There are many Black Markets, one for each Criminal and Pirate faction. When access is offered, it is for the region you are currently in.
-Mech variant salvage can only be combined together if the same engine is used. An Endo Steel chassis cannot be combined with a standard chassis.
+Mech variant salvage can only be combined together if the same engine is used. An Endo-Steel chassis cannot be combined with a standard chassis.
 Loading a game while within a game can cause a crash. Return to the main menu before loading to reduce the chance.
 Shift-clicking an item in the timeline will speed up time until the next event or the clicked event occurs, whichever is first. 
 Mech salvage shows as A(B)/C(D); A: parts you own of this variant, B: parts you own of all compatible variants, C: complete 'Mechs of this type you own, D: total parts needed to build a 'Mech.
 Every Mech chassis comes with it's own quirks and a stock role bonus. Hover over 'Stock Role' in mechbay to find out more.
 A fatigued Pilot has lower resolve generation and may give low spirits. Use a larger team and rotate to counter Pilot Fatigue.
 Faction Stores may sell unique chassis depending on the timeline. A list of these can be found on the wiki.
-Black Market stores may sometimes contain unique chassis or rare SLDF parts, for an exhorbitant fee of course.
+Black Market stores may sometimes contain unique chassis or rare SLDF parts, for an exorbitant fee of course.
 Enemy equipment ratings varies by faction and date. 3025 Exceptional is very different to 3057 Exceptional.
 Some faction units favor using certain 'Mech chassis, or they may favor faster, mobile or high alpha 'Mechs. 
 Mercenaries use special 'Mech random access tables for variety. Garrisoned Mercs will mostly use their Employer's tables.
@@ -24,7 +24,7 @@ Under low or zero atmospheric conditions, ballistic maximum ranges are increased
 Under low or zero atmospheric conditions, missile damage is decreased and it becomes harder to vent heat. 
 Low gravity increases the jump range of Jump Jets. High gravity decreases the range. Jump Jet heat is the same regardless.
 CASE protected locations vent ammo explosions out of the rear of the 'Mech. This destroys the armor but only applies 5 structure damage.
-Ammo explodes when destroyed or crit. Use this to your advantage when targetting armor-stripped locations.
+Ammo explodes when destroyed or crit. Use this to your advantage when targeting armor-stripped locations.
 Gauss Ammo is unique in that it does not explode when destroyed or crit.
 Tier 2 technology will become available in stores around the 3050s. SLDF weapons will remain rare and obscure finds.
 Death From Above - Low gravity reduces the damage of this desperate move. High gravity increases the damage.
@@ -92,66 +92,73 @@ In 3045 ComStar reportedly lost all contact with Oberon VI as well as the Elysia
 In 3049 the Oberon Confederation were quickly overrun as forces from Clan Wolf tore through them, their technology ahead of the defenders by centuries.
 A collection of just four worlds, the Illyrian Palatinate survives through modest trade with the Free Worlds League, primarily in iron ore and processed steel.
 The Illyrian Palatinate was founded in the mid 24th century during the colonization waves spurred into action by the breakup of the old Terran Hegemony.
-In 2784, the Star League Defense Force initiated Operation EXODUS. This allowed Circinus, a former member world of the Rim Worlds Republic that had been occupied by the SLDF, to assert independence as the Circinus Federation.
+In 2784 the SLDF initiated Operation EXODUS. This allowed Circinus, a former world of the Rim Worlds Republic that had been occupied by the SLDF, to declare independence.
 The Circinus Federation attempted a long-planned invasion of the Illyrian Palatinate in 3034, which rapidly proved to be a disaster. 
 The Circinus Federation is, at least theoretically, a representative democracy. No legislative branch of their government exists of course.
 Within The Rift at the edge of Lyran space once existed a Periphery power that brought the end of the Star League, the Rim Worlds Republic.
-The Rim Collection is a small democratic Periphery state consisting of former Rim Worlds Republic worlds. The popular movement to found a new nation, dubbed the Unification Movement, began in the late 3030s.
-The St Ives Compact was formed in 3029 as a direct result of the Fourth Succession War. Duchess Candace Liao, firstborn of Chancellor Maximilian Liao and his heir, fell in love with Justin Allard, a Federated Suns spy, and fled her home nation.
-CCAF attacks on civilian targets in the St Ives Compact serve to disrupt the small nation, since the Confederation lacks the military might to go to war with the Federated Suns, their protector.
-The Tortuga Dominions is a bandit kingdom in the Periphery from which occasional raids are launched against the Federated Suns and the Taurian Concordat in search of plunder.
+In 3050 the Rim Collection is a small democratic Periphery state rising from the ashes of the Rim Worlds Republic. 
+In the north-west periphery, a popular movement to found a new nation, dubbed the Unification Movement, began in the late 3030s.
+The 3029 St Ives Compact formed when Duchess Candace Liao, firstborn of Chancellor Maximilian Liao and his heir, fell in love with Justin Allard, a Federated Suns spy, and fled her home nation.
+Capellan attacks on the St Ives Compact serve to disrupt the small nation, since the Confederation lacks the military might to go to war with the Federated Suns, their protector.
+The Tortuga Dominions is a periphery bandit kingdom who launch frequent raids to blight the border worlds of the Federated Suns and Taurian Concordat.
 As the Succession Wars engulfed the remains of the Star League, raiding forces from the Tortuga Dominions would earning a lasting reputation for depravity, cruelty and ruthlessness.
-Antallos is home to outlaws aligned with every major organized crime syndicate within the Inner Sphere; pirates and renegades, outcasts, prospectors, adventurers, and political extremists.
+Antallos is home to outlaws aligned with every major organized crime syndicate within the Inner Sphere; pirates and renegades, outcasts, prospectors, adventurers and political extremists.
 The Marian Hegemony has spent a century preying upon nearby trade routes and worlds as a means of keeping their economy functioning. 
 The Antallos Pirates are a weathered band of corsairs, philosopher-smugglers and colorful brigands.
 Antallos Pirates see wealth, fate, and violence as natural parts of the cosmic order. Their spirituality does not make them kinder.
-The Aurigan Pirates are a motley collection of raiders and outlaw scavengers, plaguing independent worlds and system traffic thought the Reach. 
-The asteroid belts of Star's End have a haunting reputation. Isolated vessels often turn up as a dead, empty wreck, floating in space.
+The Aurigan Pirates are a motley collection of raiders and outlaw scavengers, plaguing worlds and system traffic across the Reach. 
+The asteroid belts of Star's End house one of the oldest gangs in the Periphery, Belt Pirates, rumored to operate out of a large orbital dry dock complex.
+In the 3030s, the Belt Pirates began limited trade with some of the Houses, acquiring food and luxury items in exchange for germanium.
 The Chaos March pirates are a collection of renegade mercenaries and former planetary forces, who thrive on the instability of the region.
 Marian Pirate Legions are usually endorsed by the Marian Hegemony Senate, with the goal of inflicting instability on neighboring systems.
-Oberon Reavers are feared pirate bands raiding out from a feared region of space - the Oberon Confederation.
-The Rim Worlds Pirates are an organized gang of outlaw salvage teams and mech chop-shops, creating a steady flow of illegal parts to independent worlds along the frontier.
+Oberon Reavers are feared pirate bands raiding out from a volatile region of space - the Oberon Confederation.
+The Rim Worlds Pirates are a dysfunctional network of salvage teams and smugglers, creating a steady flow of illegal goods along the frontier.
 Santander V, also known as Santander's World, is the capital world of the Antallos pirate kingdom. All outlaws in this region pay homage to the Pirate King, Helmar Valasek.
 Found throughout human-occupied space, the Mafia accepts all into its ranks who are willing to protect "the Family." 
 The Beroski Family are known to be involved in various criminal activities, from drug trafficking and prostitution to racketeering and smuggling.
 The Malthus Syndicate blurs the lines between corporation, noble house, political machine, gambling empire and criminal cartel.
 When dealing with criminal syndicates, everyone has a price and everything is ultimately a transaction.
-Circinus Raiders are little more than roaming warbands held together by greed, fear and charisma.
+Circinus Raiders are little more than roaming war bands held together by greed, fear and charisma.
 To a raider, civilized behavior is viewed as weakness. Mercy is expensive. The future is somebody else's problem.
 The Circinus Federation likes to hide behind the pretense of simple frontier state of farmers, traders and independent citizens. 
 Power in the Circinus Federation rests with the Black Warriors, a feared ex-mercenary force now turned pirate-raider.
 The Tortuga pirates are among the closest thing the 31st century has to a romantic image of pirates. Bold free-spirits? Or slavers, raiders and profiteers?
-The Red Cobra Triad operate vast profits from narcotics, gambling, smuggling, protection, vice and black-market goods.
-The Red Cobra Triad rarely makes direct threats. They don't need to. Consequences are simply understood.
-The Taurian Concordat is fiercely independent, heavily armed, and deeply suspicious of the Inner Sphere — especially House Davion.
-The Lyran Commonwealth is wealthy, aristocratic, and industrially powerful. Its officials speak with confidence bred from prestige and arrogance.
-The Free Worlds League is politically fractured, commercially minded, and highly pragmatic.
-The Magistracy of Canopus presents as a society of personal freedom and refined pleasure. Underneath lies a pragmatic state that understands leverage, trade and influence very well.
-The Marian Hegemony is militaristic, hierarchical, expansionist, and deeply conscious of status and authority.
-The Capellan Confederation is proud, politically conscious, and deeply concerned with loyalty, stability, and state authority. 
-Capellan officials often speak with calculated politeness layered over suspicion and ideological conviction.
-The Draconis Combine is authoritarian, militaristic, and intensely concerned with duty, hierarchy, and obedience. 
-Rooted in old Japanese traditions, the Draconis Combine is a vast interstellar state where military honor and service to the Coordinator outweigh individual concerns.
-The Federated Suns projects confidence, patriotism, and military professionalism. Davion officers tend to view themselves as defenders of order and stability.
+The Red Cobra Triad operate vast profits from narcotics, gambling, protection, vice and black-market goods.
+The Red Cobra Triad rarely make threats, they don't need to. Consequences are simply understood.
+The fiercely independent Taurian Concordat is heavily armed and deeply suspicious of the Inner Sphere — especially House Davion.
+The aristocratic Lyran Commonwealth is often regarded as the wealthiest of the Successor states.
+Lyran officials speak with a confidence bred from arrogance and prestige.
+The Free Worlds League is an undeniable mercantile juggernaught, despite its constant political turmoil.
+Throughout history, the League has usually been a de facto military dictatorship under the Captains-General of House Marik.
+Founded in 2271, the Free Worlds League is the oldest of great Successor Houses.
+The Magistracy likes to advertise itself as a free society of creativity and refined pleasure. 
+The Magistracy of Canopus is a pragmatic periphery power that understands interstellar leverage, trade and influence very well.
+The Marian Hegemony is militaristic, expansionist, state founded on the ideals of some ancient terran empire.
+The proud Capellan Confederation is deeply concerned with loyalty, stability and state authority. 
+The calculated speech of Capellan officials is politeness layered over suspicion and ideological conviction.
+Rooted in ancient terran traditions, Draconis state officials demand duty, harmony and obedience from its populace.
+The Draconis Combine is a vast interstellar state where military honor and service to the Coordinator outweigh individual concerns.
+The Federated Suns outwardly project confidence, patriotism, and military professionalism. 
+Davion officers tend to view themselves as defenders of order and stability.
 The Cloak Syndicate is a predatory criminal enterprise which sells itself as the friend of forgotten people. Desperate customers are loyal customers after all.
-In 3056, the Treaty of Taurus allowed the joint settlement of a New Colony Region in empty space between the Magistracy of Canopus and Taurian Concordat.
+The 3056 Treaty of Taurus allowed the joint settlement of a New Colony Region in empty space between the Magistracy and Taurian Concordat.
 The Outworlds Alliance was once a prosperous and proud region. Centuries of decline have left much of the Alliance impoverished and technologically degraded.
 In the 31st century, a humanitarian crisis is building in the Outworlds Alliance. How do you balance military necessity as entire worlds slide toward desperation and revolt?
 Founded in 3048, the Rim Collection is a bright spark of idealism, trying to reclaim the legacy of the old Rim Worlds Republic.
 The Wolf’s Dragoons represent the gold standard of mercenary conduct in the Inner Sphere: disciplined, honorable and highly professional.
-Even in the 31st century, the Yakuza maintain a strong cultural identity rooted in old Terra-era Japanese customs, adapted into a vast interstellar criminal network.
+The Yakuza is a vast interstellar criminal network with a strong cultural identity rooted in old-Terra Japanese customs.
 Man-TLE is a slick and mysterious criminal network producing highly addictive entertainment narcotics.
 Bored of reality? Man-TLE produce 'True Life Experiences', recreational hologram environments with narcotic stimulation. You'll never want to leave...
-The Beroski Family sits atop a sprawling criminal empire of racketeering, smuggling, vice, bribery, and contractual violence.
+The Beroski Family sits atop a sprawling criminal empire of racketeering, smuggling, vice, bribery and contractual violence.
 The Yihzi Tong possess a rigid hierarchy, strong internal discipline and a fanatically loyal membership. 
-The Yihzi Tong are commonly involved in narcotics, prostitution, smuggling, extortion and occasionally state terrorism.
+The Yihzi Tong are commonly involved in narcotics, prostitution, smuggling, extortion and occasional state terrorism.
 The Rostakov Tong have a brutal reputation. If anyone challenges their territory or authority, the response is often immediate, public and memorable.
 Following his defection to the FedSuns in 3029, ex-Capellan Colonel Pavel Ridzik established his own fiefdom - the Tikonov Free Republic. It would be ill-fated.
 The Chaos March is a confused warzone. The system is in constant turmoil with fleets of multiple houses constantly passing through.
 The Arc-Royal Defense Cordon was a region of space in the Lyran Alliance ruled by Grand Duke Morgan Kell from 3057 until 3067.
 An oddity even among the strange worlds of the Periphery, the Elysian Fields was a private hold of the Inheritor philosophic movement and later the One Star Faith. 
 The Elysian Fields are a de-facto protectorate of the Oberon Confederation, to whom they have forsworn all military.
-The Oberon Confederation wants to be seen as a legitimate state, but underneath the paint it's still a pirate kingdom, with slavery and extortion still common.
+The Oberon Confederation wants to be seen as a legitimate, but underneath the paint it's still a pirate kingdom, with slavery and extortion common.
 Under House Humphreys Andurien was a restive province with a strong anti-Marik bias, which led it to secede from the Free Worlds League in 3030.
 The Duchy of Andurien was considered a particularly open and enlightened form of this government, with citizens enjoying substantial freedoms. 
 All warfare is based on deception.
@@ -227,37 +234,34 @@ Your name is in the mouth of others: be sure it has teeth.
 The world is richer when you turn enemies into friends, but that's not the same as you being richer.
 Don't be afraid to be the first to resort to violence.
 The enemy of my enemy is my enemy's enemy. No more. No less.
-If it's stupid and it works, it's still stupid and you're lucky.
+If it's stupid and it works, it's still stupid and you were just lucky.
 Every client is one payment away from becoming a target.
 Heaven offers nothing that a mercenary soul can desire.
 The only way out is through.
 I am a man of fortune, and must seek my fortune.
 Not all treasure is silver and gold.
 Where there is a sea there are pirates. - Greek Proverb
-A friend can betray you, but an enemy will always stay the same.
 Give a man a fire and he's warm for a day. Set fire to him and he's warm for the rest of his life.
 No matter how fast light travels, it finds the darkness has always got there first, and is waiting for it.
 Evil begins when you begin to treat people as things.
 He'd been wrong, there was a light at the end of the tunnel, and it was a flamethrower.
-Sometimes glass glitters more than diamonds because it has more to prove.
+Sometimes glass glitters more than diamonds, it has more to prove.
 When in doubt, choose to live.
 Remember, chances are where you find them.
 The thrill of the hunt… the promise of payment.
 Circle in the dark, the battle may yet be won.
 Remind yourself that overconfidence is a slow and insidious killer.	
 There can be no bravery without madness.
-Be wary - triumphant pride precipitates a dizzying fall.
 Dispatch these thugs in brutal fashion, that all may hear of your arrival.
 The cost of preparedness - measured now in credits, later in salvage.	
-Word is travelling. Ambition is stirring on distant worlds. We can use this.
 A predator is often blind to its own peril.	
 The sin is not in being outmatched, but in failing to recognize it.	
 Those who play with the devil's toys will be brought by degrees to wield his sword.
-Valour is superior to numbers.
+Valor is superior to numbers.
 The blade itself incites to violence.
 Vae victus. Woe to the vanquished.
 Only the dead have seen the end of the war.
-The gods favour the bold.
+The gods favor the bold.
 Cry "Havoc!" and let slip the dogs of war.
 He conquers who endures.
 In war, truth is the first casualty.
@@ -271,14 +275,14 @@ A brave man dies but once, a coward many times.
 There is no death. Only a change of worlds.
 A collision in orbit can ruin your day.
 Burn old wood, read old books, drink old wines, have old friends.
-Kill them all, God will recognise his own.
+Kill them all, God will recognize his own.
 Following the light of the sun, we left the Old World.
 Peace hath her victories, no less renowned than War.
 Luck is the residue of design.
 He doth nothing but talk of his 'Mech.
 Give me another 'Mech: bind up my wounds.
 A 'Mech! A 'Mech! My kingdom for a BattleMech!
-The better part of valour is discretion.
+The better part of valor is discretion.
 To whom God will, there be the victory.
 There's daggers in men's smiles.
 Let the boy win his spurs.
@@ -311,7 +315,6 @@ Arm Actuator crits slightly decrease weapon accuracy for that 'Mech arm, along w
 Shoulder crits severely decrease weapon accuracy for that 'Mech arm, along with a punishing -50% melee damage reduction.
 Critical hits to a Hips halve the movement speed of the Mech. This is can be quite perilous.
 Each critical hit to Leg and Feet components slightly reduce the movement and stability gain of a 'Mech.
-If a mission payment is suspiciously high, ask yourself why and prepare accordingly.
 Search Denial, Joint Operation and Tag Team - these always have a chance for ComStar.
 ComStar forces utilize high-value Star League technology and advanced weapons, making them often deadly but rewarding encounters.
 Choose self-preservation over duty.
@@ -334,7 +337,7 @@ We're not asking for heroics. Just get the job done.
 Trust is a luxury. We prefer contracts.
 A treasure found is merely wealth. A treasure earned is wisdom.
 Loss is a poor companion, but a diligent teacher.
-Fortune does not despise failure. She despises cowardice.
+Fortune favors the bold.
 The universe rewards those bold enough to seize what it offers.
 Some doors open with keys. Others open with autocannon fire.
 The stars guide all travelers. Some they guide toward fortune. Others toward regret.
@@ -351,10 +354,10 @@ The Federated Suns respects competent professionals, regardless of origin.
 We can survive losing money. Losing face is harder.
 The Cloak Syndicate feeds people, sure. Easier to collect protection money from neighborhoods that still exist.
 The Outworlds Alliance military is stretched thin across multiple systems. Times are desperate.
-Most powers see the Rim as territory to exploit. Rim Col citizens are just trying to survive.
+Most powers see the isolated worlds of the Rim as territory to exploit.
 Honor, debt, and violence bind the Yakuza more tightly than any contract.
 Mercenaries come and go. The Red Cobra remains.
-Your blades will be tested. So will your discipline.
+Your Mechs will be tested. So will their pilot's discipline.
 Strike true, strike hard, and return if fate allows it.
 Tortuga didn’t become infamous by playing fair.
 You want morality or money? Because only one of those is on the table.
@@ -382,17 +385,16 @@ Marik strength lies in diversity. So does Marik’s talent for arguing.
 The Great Houses have fought for centuries over worlds they will never visit and borders they can barely remember.
 The Succession Wars destroyed much of humanity’s greatest technology. Pride, thankfully, survived intact.
 Every Great House claims to fight for humanity’s future. Most simply want the future to belong to them.
-The Great Houses possess enough firepower to destroy civilization. Fortunately, they usually settle for destroying each other.
 ComStar carries humanity’s messages across the stars. It also keeps very careful records of who is listening.
-To the faithful, ComStar preserves civilization. To everyone else, it simply controls the telephone.
+To the faithful, ComStar safeguards human civilization.
 The Hyperpulse Generator network binds the Inner Sphere together, connecting humanity through the darkness.
-A pirate’s Mech doesn’t need to be pretty. It only needs to work long enough to take yours.
+A pirate’s Mech doesn’t need to be pretty. It only needs to work long enough to win or escape.
 A pirate fleet is held together by three things: fear, profit, and whatever still works.
 Never underestimate a pirate with nothing left to lose. They usually have nothing left to lose.
-Pirates call it freedom. Their victims tend to use less flattering words.
+Pirates call it ultimate freedom. Their victims tend to use less flattering words.
 Pirates live by the gun, die by the gun, and occasionally sell the gun afterward.
 The Great Houses call the Periphery backwaters. The people who live there call them home.
-A Periphery lord may command only a handful of Mechs. They are still his handful of Mechs.
+A Periphery lord may command only a handful of Mechs. That is still usually enough to remain powerful.
 Periphery independence is rarely granted. More often, it is stubbornly maintained.
 Every minor House dreams of becoming a Great House. Most settle for surviving the next decade.
 The Inner Sphere fights over scraps while the Clans build the future.
@@ -431,7 +433,7 @@ ComStar has survived every war in the Inner Sphere. Sometimes neutrality is very
 With the death of the Cameron dynasty, the only thing the Star League Council could agree upon was rebuilding the shattered hyperpulse generator network. They appointed Jerome Blake to this task.
 In 3052, a fierce religious backlash against the removal of ComStar's mystical and religious aspects created a new movement - The Word of Blake.
 In 3052, Demona Aziz, Precentor Atreus and a member of the First Circuit, declared that Focht's vision for ComStar was heretical to the teachings of the Word of Blake.
-As ex-ComStar refugees flooded into the Free Worlds League, Marik granted the Word of Blake landhold on the world of Gibson.
+As ex-ComStar refugees flooded into the Free Worlds League, Marik granted the Word of Blake land-hold on the world of Gibson.
 The Blakists took over administration of the Hyperpulse Generators in the League, as well as the Capellan Confederation. This earned them considerable income.
 The Fourth Succession War was a conflict lasting from 3028 to 3030. Although brief, it resulted in large changes to Inner Sphere's political landscape.
 "My dear... I give you the Capellan Confederation." - Hanse Davion, in his wedding speech to Melissa Steiner, 3028.
